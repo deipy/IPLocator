@@ -1,3 +1,5 @@
+#Script by Deipy (https://www.github.com/deipy/) please let me know if you distribute this script
+
 ####################################################################################################
 
 #if you got error code 401, please use your own key, available for free at https://www.ipdata.co/.
